@@ -1,0 +1,20 @@
+.focus {
+  border: 5px solid green;
+}
+
+span {
+  padding-left: 5px;
+}
+
+.erorr {
+  border: 5px solid red;
+}
+
+.green__bg {
+  background-color: green;
+}
+
+button {
+  border: none;
+  background: none;
+}
